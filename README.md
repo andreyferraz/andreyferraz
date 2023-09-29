@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @andreyferraz
-- 👀 II am interested in learning about new technologies, facing new challenges and turning ideas into realities!
-- 🌱 Java expert with Spring Boot!.
+# Hello, World! 🌍
 
-<!---
-andreyferraz/andreyferraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Andrêy Ferraz, a developer specialized in Java. I have experience in various technologies and am particularly skilled in writing unit tests with JUnit. 🚀
+
+## Skills
+
+- **JavaScript**
+- **Java**
+- **SurveyJS**
+- **HTML**
+- **CSS**
+- **Spring Boot**
+- **Bootstrap**
+- **Wordpress**
+- **Elementor**
+- **SQL**
+- **Postman**
+- **ChaiJS**
+- **VueJS**
+- **Flexbox**
+- **AspNet MVC**
+
+I graduated in Systems Analysis and Development from FASG. I'm always looking for new opportunities to grow and learn. Let's code together! 💪
