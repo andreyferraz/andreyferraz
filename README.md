@@ -6,6 +6,8 @@ I'm Andrêy Ferraz, a developer specialized in Java. I have experience in variou
 
 - **JavaScript**
 - **Java**
+- **JavaEE**
+- **JUnit**
 - **SurveyJS**
 - **HTML**
 - **CSS**
@@ -16,8 +18,6 @@ I'm Andrêy Ferraz, a developer specialized in Java. I have experience in variou
 - **SQL**
 - **Postman**
 - **ChaiJS**
-- **VueJS**
 - **Flexbox**
-- **AspNet MVC**
 
 I graduated in Systems Analysis and Development from FASG. I'm always looking for new opportunities to grow and learn. Let's code together! 💪
