@@ -6,7 +6,8 @@ I'm **Andrêy Ferraz**, a fan of Heavy Metal, animes and **backend development**
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreyferraz&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyferraz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyferraz&layout=compact&theme=tokyonight)](https://github.com/andreyferraz/github-readme-stats)
+
 
 
 
