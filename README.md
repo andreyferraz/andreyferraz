@@ -1,6 +1,6 @@
 # Hello, World! 🌍
 
-I'm Andrêy Ferraz, a developer specialized in Java. I have experience in various technologies and am particularly skilled in writing unit tests with JUnit. 🚀
+I'm **Andrêy Ferraz**, a fan of Heavy Metal, animes and **backend development**. I have a degree in **Systems Analysis and Development (FASG/IESG)** and I'm currently specializing in **Artificial Intelligence and Machine Learning** at Uniasselvi. My main language is **Java**, combined with the **Spring Boot framework**, and I'm expanding my knowledge with **Python for Big Data** and **PHP** for personal projects. I'm constantly looking to improve my skills and keep up with industry innovations.
 
 ## Skills
 
@@ -12,4 +12,4 @@ I'm Andrêy Ferraz, a developer specialized in Java. I have experience in variou
 | SQL | Postman | ChaiJS |
 | Git | JavaEE | JUnit |
 
-I graduated in Systems Analysis and Development from FASG. I'm always looking for new opportunities to grow and learn. Let's code together! 💪
+
