@@ -12,9 +12,10 @@ I'm constantly looking to improve my skills and keep up with industry innovation
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=andreyferraz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 <br/>
-<a href="https://git.io/streak-stats">
+
+<!--<a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreyferraz&theme=tokyonight" alt="GitHub Streak"/>
-</a>
+</a>-->
 
 ---
 
